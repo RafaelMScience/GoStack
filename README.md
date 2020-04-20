@@ -1,28 +1,40 @@
-# Bootcamp GoStack 8
+# Bootcamp GoStack 11
 
-![](GoStack.jpg)
-Este repositório tem como objetivo server de índice e histórico dos projetos desenvolvidos durante o Bootcamp, mas também deve servir para anotações de ferramentas e bibliotecas importantes ou úteis para o desenvolvimento na Stack abordada.
+! [] (GoStack.jpg)
+This repository aims to serve as an index and history of projects developed during Bootcamp, but it should also be used to annotate important or useful tools and libraries for the development in the Stack addressed.
 
-## Sobre o Bootcamp GoStack 
+## About GoStack Bootcamp
 
-Segundo a definição da RocketSeat o GoStack é um treinamento online, intensivo com foco na prática e produtividade. O GoStack aborda a fundo as tecnologias Node.js, React e React Native bem como as ferramentas necessárias para que seja possa ser feito desde o desenvolvimento até o deploy. Incluindo teste, integração contínua, publicação na lojas e as mais utilizadas bibliotecas e frameworks para ser capaz de enfrentar os desafios reais.
+As defined by RocketSeat, GoStack is an intensive, online training focused on practice and productivity. GoStack covers in depth the Node.js, React and React Native technologies as well as the necessary tools so that it can be done from development to deploy. Including testing, continuous integration, publishing in stores and the most used libraries and frameworks to be able to face real challenges.
 
-# Node.js
-## Bibliotecas
-* Express - Criação do servidor
-* Nodemon - Reinicia o servidor toda vez que é alterado um arquivo -- deve ser instalado com a flag '-D' indicando que é apenas para desenvolvimento
+# NodeSs
+## Libraries
+* Express - Server creation
+* Nodemon - Restart the server every time a file is changed - must be installed with the '-D' flag indicating that it is for development only
 
-## Configurações
+# Typescript
+
+# ReactJs
+
+# React Native
+
+## Settings
 * Nodemon:
-  
-     * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
+  
+     * Add "scripts" like the "dev" command to execute the index file
 
 
-# Exercícios
+# Exercises
 
-## Módulos
+## Nivel 
+- Nivel 1
+ Conceitos Nodejs, ReactJs, React Native
 
+## Challenges
+- Nivel 1
+* [Conceitos NodeJs](https://github.com/RafaelMScience/conceitos_nodejs)
+* [Conceitos ReactJs](https://github.com/RafaelMScience/conceitos_reactjs)
+* [Conceitos React-Native](https://github.com/RafaelMScience/conceitos_reactnative)
+* [Conceitos Typescript](https://github.com/RafaelMScience/conceitos_typescript)
 
-## Desafios
-
-
+# GoBarber
