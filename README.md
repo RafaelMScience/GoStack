@@ -1,6 +1,7 @@
 # Bootcamp GoStack 11
 
-! [] (GoStack.jpg)
+![] (GoStack.jpg)
+
 This repository aims to serve as an index and history of projects developed during Bootcamp, but it should also be used to annotate important or useful tools and libraries for the development in the Stack addressed.
 
 ## About GoStack Bootcamp
